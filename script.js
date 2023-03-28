@@ -30,3 +30,4 @@ var program = 2+2;
 console.log(program);
 
 var num1 = 2; 
+var num2 = 10;
