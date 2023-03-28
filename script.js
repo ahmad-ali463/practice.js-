@@ -32,3 +32,4 @@ console.log(program);
 var num1 = 2; 
 var num2 = 10;
 console.log(num1*num2);
+// new code 
