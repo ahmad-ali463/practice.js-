@@ -28,3 +28,5 @@ addnumber(4,50)
 
 var program = 2+2;
 console.log(program);
+
+var num1 = 2; 
