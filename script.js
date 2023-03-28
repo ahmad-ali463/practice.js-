@@ -24,3 +24,6 @@ addnumber(3,15)
 
 
 addnumber(4,50)
+
+
+var program = 2+2;
